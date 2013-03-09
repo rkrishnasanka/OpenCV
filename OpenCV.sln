@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenCV", "OpenCV\OpenCV.vcxproj", "{B0743C51-2545-4C54-A8FF-3D2497A7D665}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+		test|Win32 = test|Win32
+		test|x64 = test|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0743C51-2545-4C54-A8FF-3D2497A7D665}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B0743C51-2545-4C54-A8FF-3D2497A7D665}.Debug|Win32.Build.0 = Debug|Win32
+		{B0743C51-2545-4C54-A8FF-3D2497A7D665}.Debug|x64.ActiveCfg = Debug|x64
+		{B0743C51-2545-4C54-A8FF-3D2497A7D665}.Debug|x64.Build.0 = Debug|x64
+		{B0743C51-2545-4C54-A8FF-3D2497A7D665}.Release|Win32.ActiveCfg = Release|Win32
+		{B0743C51-2545-4C54-A8FF-3D2497A7D665}.Release|Win32.Build.0 = Release|Win32
+		{B0743C51-2545-4C54-A8FF-3D2497A7D665}.Release|x64.ActiveCfg = Release|x64
+		{B0743C51-2545-4C54-A8FF-3D2497A7D665}.Release|x64.Build.0 = Release|x64
+		{B0743C51-2545-4C54-A8FF-3D2497A7D665}.test|Win32.ActiveCfg = test|Win32
+		{B0743C51-2545-4C54-A8FF-3D2497A7D665}.test|Win32.Build.0 = test|Win32
+		{B0743C51-2545-4C54-A8FF-3D2497A7D665}.test|x64.ActiveCfg = test|x64
+		{B0743C51-2545-4C54-A8FF-3D2497A7D665}.test|x64.Build.0 = test|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
