@@ -89,6 +89,7 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <ExecutablePath>$(OPENCV_DIR)\build\x64\vc11\bin\;$(ExecutablePath)</ExecutablePath>
+    <IncludePath>$(OPENCV_DIR)\build\include\;$(OPENCV_DIR)\build\include\opencv\;$(OPENCV_DIR)\build\include\opencv2\;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ExecutablePath>$(OPENCV_DIR)\build\x86\vs11\bin\;$(ExecutablePath)</ExecutablePath>
